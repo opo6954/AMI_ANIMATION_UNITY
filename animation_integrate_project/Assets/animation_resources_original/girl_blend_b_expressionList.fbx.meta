@@ -521,7 +521,639 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A:blendShapeList
+        weight: 1
+      - path: A:Female_jnt
+        weight: 1
+      - path: A:Female_jnt/A:Female_body
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:Fibers_MeshShape
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:lCollar 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:lEar
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:lEye
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:lowerJaw
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:rEar
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:rEye
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:CenterBrow 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lBrowInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lBrowMid 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lBrowOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lCheekUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidLower 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidLowerInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidLowerOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidUpperInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lEyelidUpperOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:LipUpperMiddle 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lLipBelowNose 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lLipNasolabialCrease 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lLipUpperInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lLipUpperOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lNasolabialMiddle 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lNasolabialUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lNostril 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lSquintInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:lSquintOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:MidNoseBridge 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:Nose 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rBrowInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rBrowMid 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rBrowOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rCheekUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidLower 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidLowerInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidLowerOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidUpperInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rEyelidUpperOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rLipBelowNose 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rLipNasolabialCrease 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rLipUpperInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rLipUpperOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rNasolabialMiddle 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rNasolabialUpper 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rNostril 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rSquintInner 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperFaceRig
+          1/A:rSquintOuter 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:neckLower 1/A:neckUpper 1/A:head 1/A:upperTeeth
+          1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:chestUpper 1/A:rCollar 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:lPectoral 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:abdomenLower 1/A:abdomenUpper
+          1/A:chestLower 1/A:rPectoral 1
+        weight: 1
+      - path: A:Female_jnt/A:Fibers5_18000/A:hip 1/A:pelvis 1
+        weight: 1
+      - path: A:Female_jnt/A:hip
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal1/A:lIndex1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal1/A:lIndex1/A:lIndex2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal1/A:lIndex1/A:lIndex2/A:lIndex3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal2/A:lMid1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal2/A:lMid1/A:lMid2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal2/A:lMid1/A:lMid2/A:lMid3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal3/A:lRing1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal3/A:lRing1/A:lRing2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal3/A:lRing1/A:lRing2/A:lRing3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal4
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal4/A:lPinky1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal4/A:lPinky1/A:lPinky2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lCarpal4/A:lPinky1/A:lPinky2/A:lPinky3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lThumb1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lThumb1/A:lThumb2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:lCollar/A:lShldrBend/A:lShldrTwist/A:lForearmBend/A:lForearmTwist/A:lHand/A:lThumb1/A:lThumb2/A:lThumb3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lEar
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lEye
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:BelowJaw
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:Chin
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lCheekLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:LipBelow
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:LipLowerMiddle
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lJawClench
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lLipCorner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lLipLowerInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lLipLowerOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lNasolabialLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:lNasolabialMouthCorner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rCheekLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rJawClench
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rLipCorner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rLipLowerInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rLipLowerOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rNasolabialLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerFaceRig/A:rNasolabialMouthCorner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerTeeth
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerTeeth/A:tongue01
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerTeeth/A:tongue01/A:tongue02
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerTeeth/A:tongue01/A:tongue02/A:tongue03
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:lowerJaw/A:lowerTeeth/A:tongue01/A:tongue02/A:tongue03/A:tongue04
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:rEar
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:rEye
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:CenterBrow
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lBrowInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lBrowMid
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lBrowOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lCheekUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidLowerInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidLowerOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidUpperInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lEyelidUpperOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:LipUpperMiddle
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lLipBelowNose
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lLipNasolabialCrease
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lLipUpperInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lLipUpperOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lNasolabialMiddle
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lNasolabialUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lNostril
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lSquintInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:lSquintOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:MidNoseBridge
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:Nose
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rBrowInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rBrowMid
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rBrowOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rCheekUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidLower
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidLowerInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidLowerOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidUpperInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rEyelidUpperOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rLipBelowNose
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rLipNasolabialCrease
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rLipUpperInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rLipUpperOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rNasolabialMiddle
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rNasolabialUpper
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rNostril
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rSquintInner
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperFaceRig/A:rSquintOuter
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:neckLower/A:neckUpper/A:head/A:upperTeeth
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal1/A:rIndex1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal1/A:rIndex1/A:rIndex2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal1/A:rIndex1/A:rIndex2/A:rIndex3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal2/A:rMid1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal2/A:rMid1/A:rMid2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal2/A:rMid1/A:rMid2/A:rMid3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal3/A:rRing1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal3/A:rRing1/A:rRing2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal3/A:rRing1/A:rRing2/A:rRing3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal4
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal4/A:rPinky1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal4/A:rPinky1/A:rPinky2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rCarpal4/A:rPinky1/A:rPinky2/A:rPinky3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rThumb1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rThumb1/A:rThumb2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:chestUpper/A:rCollar/A:rShldrBend/A:rShldrTwist/A:rForearmBend/A:rForearmTwist/A:rHand/A:rThumb1/A:rThumb2/A:rThumb3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:lPectoral
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:abdomenLower/A:abdomenUpper/A:chestLower/A:rPectoral
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lHeel
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lBigToe
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lBigToe/A:lBigToe_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe1/A:lSmallToe1_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe2/A:lSmallToe2_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe3/A:lSmallToe3_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe4
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lSmallToe4/A:lSmallToe4_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:lThighBend/A:lThighTwist/A:lShin/A:lFoot/A:lMetatarsals/A:lToe
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rHeel
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rBigToe
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rBigToe/A:rBigToe_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe1
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe1/A:rSmallToe1_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe2/A:rSmallToe2_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe3
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe3/A:rSmallToe3_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe4
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rSmallToe4/A:rSmallToe4_2
+        weight: 1
+      - path: A:Female_jnt/A:hip/A:pelvis/A:rThighBend/A:rThighTwist/A:rShin/A:rFoot/A:rMetatarsals/A:rToe
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
