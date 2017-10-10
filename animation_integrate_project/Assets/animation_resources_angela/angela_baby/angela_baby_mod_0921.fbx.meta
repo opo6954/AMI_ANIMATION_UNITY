@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 5ca1ab8a388edb04da99d7e5b3cdc30d
+timeCreated: 1507596579
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: eye_grp
+    100006: eye_l
+    100008: eye_line
+    100010: eye_line 1
+    100012: eye_r
+    100014: eyebrow
+    100016: hair
+    100018: iris
+    100020: iris 1
+    100022: lash_dn
+    100024: lash_dn 1
+    100026: lash_up
+    100028: lash_up 1
+    100030: pupil
+    100032: pupil 1
+    100034: sclera
+    100036: sclera2
+    100038: sclera_spec
+    100040: sclera_spec 1
+    400000: //RootNode
+    400002: body
+    400004: eye_grp
+    400006: eye_l
+    400008: eye_line
+    400010: eye_line 1
+    400012: eye_r
+    400014: eyebrow
+    400016: hair
+    400018: iris
+    400020: iris 1
+    400022: lash_dn
+    400024: lash_dn 1
+    400026: lash_up
+    400028: lash_up 1
+    400030: pupil
+    400032: pupil 1
+    400034: sclera
+    400036: sclera2
+    400038: sclera_spec
+    400040: sclera_spec 1
+    2300000: body
+    2300002: eye_line
+    2300004: eye_line 1
+    2300006: eyebrow
+    2300008: hair
+    2300010: iris
+    2300012: iris 1
+    2300014: lash_dn
+    2300016: lash_dn 1
+    2300018: lash_up
+    2300020: lash_up 1
+    2300022: pupil
+    2300024: pupil 1
+    2300026: sclera
+    2300028: sclera2
+    2300030: sclera_spec
+    2300032: sclera_spec 1
+    3300000: body
+    3300002: eye_line
+    3300004: eye_line 1
+    3300006: eyebrow
+    3300008: hair
+    3300010: iris
+    3300012: iris 1
+    3300014: lash_dn
+    3300016: lash_dn 1
+    3300018: lash_up
+    3300020: lash_up 1
+    3300022: pupil
+    3300024: pupil 1
+    3300026: sclera
+    3300028: sclera2
+    3300030: sclera_spec
+    3300032: sclera_spec 1
+    4300000: sclera_spec
+    4300002: sclera
+    4300004: iris
+    4300006: pupil
+    4300008: eye_line
+    4300010: lash_dn
+    4300012: lash_up
+    4300014: sclera_spec
+    4300016: sclera2
+    4300018: iris
+    4300020: pupil
+    4300022: eye_line
+    4300024: lash_dn
+    4300026: lash_up
+    4300028: hair
+    4300030: body
+    4300032: eyebrow
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

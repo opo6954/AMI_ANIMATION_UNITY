@@ -1,0 +1,221 @@
+newmtl Eyelashes
+d 1
+Kd 0.047058824 0.043137256 0.035294119
+map_D /ConvertedMaps/TPL_Eyelashes2.tif
+
+newmtl Fingernails
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Arms.jpg
+
+newmtl Toenails
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Legs.jpg
+
+newmtl Cornea
+d 0.995
+Kd 0.75294119 0.75294119 0.75294119
+
+newmtl Pupils
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Eyes.jpg
+
+newmtl Face
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Face.jpg
+
+newmtl Lips
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Face.jpg
+
+newmtl Teeth
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Mouth.jpg
+
+newmtl Sclera
+d 1
+Kd 0.76862746 0.76862746 0.76862746
+map_Kd /Maps/TPL_Eyes.jpg
+map_D /ConvertedMaps/TPL_EyesOP.tif
+
+newmtl Ears
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Face.jpg
+
+newmtl Irises
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Eyes.jpg
+
+newmtl Legs
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Legs.jpg
+
+newmtl Torso
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Torso.jpg
+
+newmtl EyeSocket
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Face.jpg
+
+newmtl EyeMoisture
+d 0.98000002
+Kd 1 0.70980394 0.70980394
+map_Kd /Maps/TPL_EyeREF.jpg
+
+newmtl Mouth
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Mouth.jpg
+
+newmtl Arms
+d 1
+Kd 1 1 1
+map_Kd /Maps/TPL_Arms.jpg
+
+newmtl Default
+d 1
+Kd 0.63529414 0.25882354 0.25882354
+map_Kd /Maps/Eyebrows.jpg
+
+newmtl meck_p3
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p1
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p2
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p5
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p4
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p7
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl meck_p6
+d 1
+Kd 1 1 1
+map_Kd /Maps/necklaceD1.jpg
+
+newmtl op_body1
+d 1
+Kd 1 1 1
+map_Kd /Maps/onepD1.jpg
+
+newmtl op_body2
+d 1
+Kd 1 1 1
+map_Kd /Maps/onepD1.jpg
+
+newmtl belt_body1
+d 1
+Kd 1 1 1
+map_Kd /Maps/beltD1.jpg
+
+newmtl belt_body2
+d 1
+Kd 1 1 1
+map_Kd /Maps/beltD1.jpg
+
+newmtl belt_metal
+d 1
+Kd 0.52156866 0.50588238 0.49803922
+
+newmtl LFrontFine
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRFtFine.tif
+
+newmtl RFrontFine
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRFtFine.tif
+
+newmtl LBackFull
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRBkFull.tif
+
+newmtl RBackFine
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRBkFine.tif
+
+newmtl Bang
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyBang.tif
+
+newmtl Scalp
+d 1
+Kd 0.93725491 0.88235295 0.83137256
+map_Kd /Maps/05_MistyScalp.jpg
+map_D /ConvertedMaps/T_MistyScalp.tif
+
+newmtl LBackFine
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRBkFine.tif
+
+newmtl RBackFull
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRBkFull.tif
+
+newmtl LFrontShort
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRShort.tif
+
+newmtl RFrontShort
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRShort.tif
+
+newmtl LFrontLong
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRLong.tif
+
+newmtl RFrontLong
+d 1
+Kd 1 1 1
+map_Kd /Maps/05_MistyHair.jpg
+map_D /ConvertedMaps/T_MistyLRLong.tif
+
